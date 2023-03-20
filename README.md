@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[View live here]()
+[View live here](https://spacetraveleryun.netlify.app/)
 
 ## Getting Started
 
@@ -37,6 +37,11 @@ enjoy
 - Twitter: [@IamYunusAli](https://twitter.com/iamyunusali)
 - LinkedIn: [Yunus Ali](https://linkedin.com/in/iamyunusali)
 
+👤 **Pierre Celestin Moussa**
+
+- GitHub:[@Piercel2022](https://github.com/Piercel2022)
+- Twitter:[@pier_celestin](https://twitter.com/pier_celestin)
+- LinkedIn:[@piercelestinmax](https://linkedin.com/in/piercelestinmax)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
